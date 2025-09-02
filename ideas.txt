@@ -18,7 +18,13 @@ With the advent of AI one might assume that learning a foreign language might be
 From all the subjects one might be able to teach, history might be the most difficult one, since it might be difficult to teach effectively. Therefore interactive personal dialgue with retrieval argumented generation (RAG) on historical facts and automatic quiz generation system might be useful in order to enable occations to appreciate the three lessons of history mentioned here:
 https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/peace.txt
 
-4. Critical thinking:
-5. Math:
-6. Ethics:
-7. 
+4. teaching personnel:
+In case the students might need support, one might appreciate teaching personnel to assist. It might be useful to present weekly findings of the students to inspire other stundents, which might require human moderation.
+
+5. Tuition:
+The mentioned workflows might be useful for extra curricular tution (german: Nachhilfe).
+
+6. Other curricula:
+- Critical thinking: [Todo: elaborate]
+- Math: [Todo: elaborate]
+- Ethics: [Todo: elaborate]
