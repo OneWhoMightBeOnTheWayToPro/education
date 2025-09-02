@@ -19,7 +19,7 @@ From all the subjects one might be able to teach, history might be the most diff
 https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/peace.txt
 
 4. teaching personnel:
-In case the students might need support, one might appreciate teaching personnel to assist. It might be useful to present weekly findings of the students to inspire other stundents, which might require human moderation.
+In case the students might need support, one might appreciate teaching personnel to assist. It might be useful to present weekly findings of the students to inspire other stundents, which might require human moderation. Since personal guidance (such as psychological assistance) might be too sensitive data to let it handle a public institution, which might be subject to neglect of state of the art (SOTA) cyber security measures, human personell might be more suited for perrrsonal guiddance.
 
 5. Tuition:
 The mentioned workflows might be useful for extra curricular tution (german: Nachhilfe).
