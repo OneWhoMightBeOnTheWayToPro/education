@@ -1,5 +1,7 @@
 1. Wiki contribution grading system:
-The first author of this document might be convinced that the solution for the dichotomy of "irrelevant" facts learning at most contemporary educational institution might be to offer occations where children might be able to see the actual contributions one might be able to make. Therefore it might be paramount to reward increment of total knowledge, which might also encourage project based autonomous learning to foster curiousity. In order to be compatible to with current local curriculum and grading system, an AI based grading system for contributions might be useful which humans might not have the capacity to evaluate in detail. The AI might also be suggest topics from the curriculum for the uninitated.
+The first author of this document might be convinced that the solution for the dichotomy of "irrelevant" facts learning at most contemporary educational institution might be to offer occations where children might be able to see the actual contributions one might be able to make. Therefore it might be paramount to reward increment of total knowledge, which might also encourage project based autonomous learning to foster curiousity mentioned here:
+https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/curiosity.txt
+In order to be compatible to with current local curriculum and grading system, an AI based grading system for contributions might be useful which humans might not have the capacity to evaluate in detail. The AI might also be suggest topics from the curriculum for the uninitated.
 To focus on the curiousity part, the AI might also assist with formatting with these projects:
 - https://github.com/stanford-oval/storm
 - https://github.com/stanford-oval/WikiChat
@@ -13,6 +15,10 @@ With the advent of AI one might assume that learning a foreign language might be
 - Conversation: Since fellow humans might not be proficient in ideal didactic methods, tandems might be suboptimal for the learnign experience. Therefore conversationally fluent speech-to-speech AI model such as ([todo insert link]) paired with other mentioned systems might be useful. As the time of writing, there might be no such s2s models open sourced and it might require significant resources to modify to the desired requirements.
 
 3. History:
-From all the subjects one might be able to teach, history might be the most difficult one, since it might be difficult to teach effectively.
+From all the subjects one might be able to teach, history might be the most difficult one, since it might be difficult to teach effectively. Therefore interactive personal dialgue with retrieval argumented generation (RAG) on historical facts and automatic quiz generation system might be useful in order to enable occations to appreciate the three lessons of history mentioned here:
+https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/peace.txt
 
-4. Ethics:
+4. Critical thinking:
+5. Math:
+6. Ethics:
+7. 
