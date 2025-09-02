@@ -1,0 +1,18 @@
+1. Wiki contribution grading system:
+The first author of this document might be convinced that the solution for the dichotomy of "irrelevant" facts learning at most contemporary educational institution might be to offer occations where children might be able to see the actual contributions one might be able to make. Therefore it might be paramount to reward increment of total knowledge, which might also encourage project based autonomous learning to foster curiousity. In order to be compatible to with current local curriculum and grading system, an AI based grading system for contributions might be useful which humans might not have the capacity to evaluate in detail. The AI might also be suggest topics from the curriculum for the uninitated.
+To focus on the curiousity part, the AI might also assist with formatting with these projects:
+- https://github.com/stanford-oval/storm
+- https://github.com/stanford-oval/WikiChat
+
+2. Language practice:
+With the advent of AI one might assume that learning a foreign language might be obsolete. But with the immanence of total blackouts either through solar flairs or cyber attack on power grids, it might be crucial to maintain the ability communicate without electronic translator devices. In order to achieve that there might be several approaches:
+- Interest based learning: The motivation to read about favourite topics in the target language might be best way to learn. And educative content is generated on runtime.
+- Spaced repetition: Any words which translation has been asked might be subject to spaced repetition curated by AI
+- Subtitle generation: There might have been studies that the basic ability for language learning is learnt best, when watching favourite video with the audio of target language and with two subtiles, one the target language and the other the native language. The generation might be able to be automated.
+- Practice of pronounciation: One main motivation to pronounce well, might be to be able to pronounce words sufficently well that an AI might be able to understand one, eventhough humans might be ideal. Therefore, one might get feedback on pronounciation through automatic speech recognition (ASR).
+- Conversation: Since fellow humans might not be proficient in ideal didactic methods, tandems might be suboptimal for the learnign experience. Therefore conversationally fluent speech-to-speech AI model such as ([todo insert link]) paired with other mentioned systems might be useful. As the time of writing, there might be no such s2s models open sourced and it might require significant resources to modify to the desired requirements.
+
+3. History:
+From all the subjects one might be able to teach, history might be the most difficult one, since it might be difficult to teach effectively.
+
+4. Ethics:
