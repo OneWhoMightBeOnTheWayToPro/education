@@ -17,6 +17,7 @@ With the advent of AI one might assume that learning a foreign language might be
 3. History:
 From all the subjects one might be able to teach, history might be the most difficult one, since it might be difficult to teach effectively. Therefore interactive personal dialgue with retrieval argumented generation (RAG) on historical facts and automatic quiz generation system might be useful in order to enable occations to appreciate the three lessons of history mentioned here:
 https://raw.githubusercontent.com/VoiceOfHumanityFoundation/42/refs/heads/main/draft/peace.txt
+One might also appreciate the idea to analyze news and how it integrates into the narrative of public consensusss on the 
 
 4. teaching personnel:
 In case the students might need support, one might appreciate teaching personnel to assist. It might be useful to present weekly findings of the students to inspire other stundents, which might require human moderation. Since personal guidance (such as psychological assistance) might be too sensitive data to let it handle a public institution, which might be subject to neglect of state of the art (SOTA) cyber security measures, human personell might be more suited for perrrsonal guiddance.
